@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPOI.DataSetExtensions", "NPOI.DataSetExtensions\NPOI.DataSetExtensions.csproj", "{B9C7815C-7E0D-4848-9D27-7A52EE96A2C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NPOI.DataSetExtensions.Test", "NPOI.DataSetExtensions.Test\NPOI.DataSetExtensions.Test.csproj", "{32EFF73D-C7EF-4E2E-887B-78301E6C18F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{BC5A44A7-51A4-476A-B679-29675B0D97E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32EFF73D-C7EF-4E2E-887B-78301E6C18F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EFF73D-C7EF-4E2E-887B-78301E6C18F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EFF73D-C7EF-4E2E-887B-78301E6C18F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EFF73D-C7EF-4E2E-887B-78301E6C18F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C7815C-7E0D-4848-9D27-7A52EE96A2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C7815C-7E0D-4848-9D27-7A52EE96A2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C7815C-7E0D-4848-9D27-7A52EE96A2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C7815C-7E0D-4848-9D27-7A52EE96A2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = NPOI.DataSetExtensions\NPOI.DataSetExtensions.csproj
+	EndGlobalSection
+EndGlobal
